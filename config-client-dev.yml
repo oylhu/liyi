@@ -1,0 +1,4 @@
+server:
+  port: 8082
+info:
+  message: Hello from Config Server for config-client
