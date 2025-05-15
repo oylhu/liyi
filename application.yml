@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: config-client
+server:
+  port: 8082
+info:
+  message: Hello, this is a message from the remote config server.
